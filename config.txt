@@ -1,5 +1,5 @@
 token=NTIzNzc2ODM3NTgzNjM0NDUy.DwDJsg.G4x-V0zF3UBh3PI-AYRNoGAe680
-owner=429616669162471444
+owner=518354659644014593
 prefix= Ab
 game= ألطف من الورد
 stayinchannel=true
