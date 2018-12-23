@@ -1,10 +1,6 @@
-﻿token=
-owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+token=NTIzNzc2ODM3NTgzNjM0NDUy.DwDJsg.G4x-V0zF3UBh3PI-AYRNoGAe680
+owner=429616669162471444
+prefix= Ab
+game= ألطف من الورد
 stayinchannel=true
-
 songinstatus=false
